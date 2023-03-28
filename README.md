@@ -6,10 +6,14 @@ Lothus is a simple trip & travel planning app, build for educational purposes. A
 
 # Project goals
 
-Apart from an obvious goal of building a complete working app, which I could use for my own needs, I wanted to set up some things that I want to accomplish while coding this project.
+Apart from an obvious goal of building a complete working app, which I could use for my own needs, I wanted to set up some things that I want to accomplish while coding this project. These are some tools/directions that I want to explore. 
 
 - [ ] Go for Domain-Driven-Design and focus on the domain
 - [ ] Dockerize the app and set up complete CI/CD pipeline in Azure DevOps
-- [ ] Use VS Code to built the app instead of Visual Studio. I just wanted to try out more light-weight IDE
+- [ ] Use VS Code to built the app instead of Visual Studio. I just wanted to code more with light-weight IDE
+- [ ] Use new ASP.NET Core Minimal API
+- [ ] Make use of OpenAI APIs
+- [ ] Use Azure NoSQL CosmosDb
 
-This list might fluctuate and I might add some points, as my vision will probably change in time.
+
+This list might fluctuate and I might add some points later, as my vision will probably change in time.
